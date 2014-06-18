@@ -1,4 +1,6 @@
-2015
+OCWIC 2015
 ====
 
-Wiki &amp; Tasks
+OCWIC is 
+
+OCWIC will be held at Sawmill Creek Resort in Huron, OH from February 20, 2015 to February 21, 2015.
