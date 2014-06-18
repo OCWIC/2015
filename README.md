@@ -11,4 +11,4 @@ OCWIC is organized and run by volunters.
 
 1. Join the team: Organizers Mailing List
 2. Help us out: OCWIC 2015 Tasks
-3. Learn more: [OCWIC 2015 Wiki]
+3. Learn more: [OCWIC 2015 Wiki](https://github.com/OCWIC/2015/wiki)
