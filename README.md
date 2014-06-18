@@ -1,8 +1,7 @@
 OCWIC 2015
 ====
 
-OCWIC is 
-
+Engaging and empowering women in computing: building community, celebrating success, and illuminating possibilities.
 OCWIC will be held at Sawmill Creek Resort in Huron, OH from February 20, 2015 to February 21, 2015.
 
 OCWIC is organized and run by volunters.
